@@ -1,0 +1,19 @@
+{
+  "name": "yxsss-css-loader",
+  "version": "1.0.0",
+  "description": "auto import yxsss-css",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yanxiaosong0902/yxsssCssLoader.git"
+  },
+  "author": "yxsss",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/yanxiaosong0902/yxsssCssLoader/issues"
+  },
+  "homepage": "https://github.com/yanxiaosong0902/yxsssCssLoader#readme"
+}
